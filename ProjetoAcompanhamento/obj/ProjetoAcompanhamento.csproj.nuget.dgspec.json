@@ -69,6 +69,10 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[9.0.0, )"

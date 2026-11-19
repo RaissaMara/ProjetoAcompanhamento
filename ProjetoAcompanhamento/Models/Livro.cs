@@ -18,5 +18,8 @@ namespace ProjetoAcompanhamento.Models
         public string Autor { get; set; } = string.Empty;
 
         public int AnoPublicacao { get; set; }
+
+        public int CategoriaId { get; set; } // Chave estrangeira para a tabela Categoria
+        public Categoria? Categoria { get; set; } // Propriedade de navegação para a categoria
     }
 }

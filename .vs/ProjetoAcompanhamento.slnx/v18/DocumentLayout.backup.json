@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|c:\\users\\020.720092\\source\\repos\\projetoacompanhamento\\projetoacompanhamento\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|solutionrelative:projetoacompanhamento\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|c:\\users\\020.720092\\source\\repos\\projetoacompanhamento\\projetoacompanhamento\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|solutionrelative:projetoacompanhamento\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|c:\\users\\020.720092\\source\\repos\\projetoacompanhamento\\projetoacompanhamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|solutionrelative:projetoacompanhamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|c:\\users\\020.720092\\source\\repos\\projetoacompanhamento\\projetoacompanhamento\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|solutionrelative:projetoacompanhamento\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|c:\\users\\020.720092\\source\\repos\\projetoacompanhamento\\projetoacompanhamento\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|solutionrelative:projetoacompanhamento\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ProjetoAcompanhamento\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Data\\AppDbContext.cs*",
-              "RelativeToolTip": "ProjetoAcompanhamento\\Data\\AppDbContext.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T14:05:22.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Livro.cs",
               "DocumentMoniker": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Models\\Livro.cs",
               "RelativeDocumentMoniker": "ProjetoAcompanhamento\\Models\\Livro.cs",
-              "ToolTip": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Models\\Livro.cs*",
-              "RelativeToolTip": "ProjetoAcompanhamento\\Models\\Livro.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Models\\Livro.cs",
+              "RelativeToolTip": "ProjetoAcompanhamento\\Models\\Livro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T12:52:33.06Z",
+              "WhenOpened": "2026-11-19T13:48:34.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Program.cs",
-              "RelativeDocumentMoniker": "ProjetoAcompanhamento\\Program.cs",
-              "ToolTip": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Program.cs",
-              "RelativeToolTip": "ProjetoAcompanhamento\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjetoAcompanhamento\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProjetoAcompanhamento\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-13T13:27:39.574Z",
+              "WhenOpened": "2026-11-19T13:03:04.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ProjetoAcompanhamento\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Models\\Categoria.cs",
+              "RelativeToolTip": "ProjetoAcompanhamento\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T12:44:33.514Z",
               "EditorCaption": ""
             }
           ]

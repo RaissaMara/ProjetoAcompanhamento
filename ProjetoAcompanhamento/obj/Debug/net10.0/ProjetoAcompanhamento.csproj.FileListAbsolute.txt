@@ -32,9 +32,6 @@ C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\obj
 C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\obj\Debug\net10.0\ProjetoAcompanhamento.pdb
 C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\obj\Debug\net10.0\ProjetoAcompanhamento.genruntimeconfig.cache
 C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\obj\Debug\net10.0\ref\ProjetoAcompanhamento.dll
-C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\bin\Debug\net10.0\Humanizer.dll
 C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\bin\Debug\net10.0\Microsoft.Build.Locator.dll
@@ -124,3 +121,6 @@ C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\bin
 C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\obj\Debug\net10.0\ProjetoAcompanhamento.sourcelink.json
+C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\020.720092\source\repos\ProjetoAcompanhamento\ProjetoAcompanhamento\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

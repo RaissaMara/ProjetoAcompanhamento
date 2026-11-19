@@ -11,6 +11,7 @@ namespace ProjetoAcompanhamento.Data
         
         //informaao EF para criar uma tabela chamada "Livros" baseada na classe Livros
         public DbSet<Livro> Livros { get; set; }
+        public DbSet<Categoria> Categorias { get; set; }
 
     }
 }
