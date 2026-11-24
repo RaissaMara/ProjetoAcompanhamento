@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using ProjetoAcompanhamento.Repositories;
 
 namespace ProjetoAcompanhamento.Controllers
 {
@@ -7,8 +8,19 @@ namespace ProjetoAcompanhamento.Controllers
     [ApiController]
     public class LivrosController : ControllerBase
     {
-        [HttpGet]
+        //Variavel para acessar ao banco de dados
+        private readonly ILivroRepository _repository;
 
+        //Construtor para injetar a dependencia do repositorio
+        public LivrosController(ILivroRepository repository)
+        {
+            _repository = repository;
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Get() => Ok(await _repository.ListarTodos());
+
+        [HttpGet]
         public IActionResult GetLivros() 
         {
             var LivrosFalsos = new List<string> 

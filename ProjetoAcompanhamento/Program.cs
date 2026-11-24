@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ProjetoAcompanhamento.Data;
+using ProjetoAcompanhamento.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +19,9 @@ var connectionString = builder.Configuration.GetConnectionString("ConexaoPadrao"
 
 builder.Services.AddDbContext<AppDbContext>(options =>
 options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+
+//Registro de Injeções de dependência:
+builder.Services.AddScoped<ILivroRepository, LivroRepository>();
 
 var app = builder.Build();
 
