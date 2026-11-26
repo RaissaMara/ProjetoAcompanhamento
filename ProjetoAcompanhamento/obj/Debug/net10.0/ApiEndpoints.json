@@ -1,6 +1,16 @@
 [
   {
     "ContainingType": "ProjetoAcompanhamento.Controllers.LivrosController",
+    "Method": "Get",
+    "RelativePath": "api/Livros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAcompanhamento.Controllers.LivrosController",
     "Method": "GetLivros",
     "RelativePath": "api/Livros",
     "HttpMethod": "GET",

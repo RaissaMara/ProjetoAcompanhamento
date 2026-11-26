@@ -11,8 +11,8 @@ using ProjetoAcompanhamento.Data;
 namespace ProjetoAcompanhamento.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20261119121909_InitBanco")]
-    partial class InitBanco
+    [Migration("20261126121524_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -23,6 +23,23 @@ namespace ProjetoAcompanhamento.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
             MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
+
+            modelBuilder.Entity("ProjetoAcompanhamento.Models.Categoria", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Categorias");
+                });
 
             modelBuilder.Entity("ProjetoAcompanhamento.Models.Livro", b =>
                 {
@@ -40,6 +57,9 @@ namespace ProjetoAcompanhamento.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("varchar(100)");
 
+                    b.Property<int>("CategoriaId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Titulo")
                         .IsRequired()
                         .HasMaxLength(50)
@@ -47,7 +67,20 @@ namespace ProjetoAcompanhamento.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("CategoriaId");
+
                     b.ToTable("Livros");
+                });
+
+            modelBuilder.Entity("ProjetoAcompanhamento.Models.Livro", b =>
+                {
+                    b.HasOne("ProjetoAcompanhamento.Models.Categoria", "Categoria")
+                        .WithMany()
+                        .HasForeignKey("CategoriaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Categoria");
                 });
 #pragma warning restore 612, 618
         }

@@ -21,5 +21,6 @@ namespace ProjetoAcompanhamento.Models
 
         public int CategoriaId { get; set; } // Chave estrangeira para a tabela Categoria
         public Categoria? Categoria { get; set; } // Propriedade de navegação para a categoria
+
     }
 }

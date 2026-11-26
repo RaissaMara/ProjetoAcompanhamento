@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|c:\\users\\020.720092\\source\\repos\\projetoacompanhamento\\projetoacompanhamento\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|solutionrelative:projetoacompanhamento\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|c:\\users\\020.720092\\source\\repos\\projetoacompanhamento\\projetoacompanhamento\\repositories\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|solutionrelative:projetoacompanhamento\\repositories\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|c:\\users\\020.720092\\source\\repos\\projetoacompanhamento\\projetoacompanhamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|solutionrelative:projetoacompanhamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|c:\\users\\020.720092\\source\\repos\\projetoacompanhamento\\projetoacompanhamento\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|solutionrelative:projetoacompanhamento\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|c:\\users\\020.720092\\source\\repos\\projetoacompanhamento\\projetoacompanhamento\\repositories\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|solutionrelative:projetoacompanhamento\\repositories\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|c:\\users\\020.720092\\source\\repos\\projetoacompanhamento\\projetoacompanhamento\\dtos\\livrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|solutionrelative:projetoacompanhamento\\dtos\\livrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|c:\\users\\020.720092\\source\\repos\\projetoacompanhamento\\projetoacompanhamento\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7B2095-02BD-31A7-0F0D-29C84BE093CF}|ProjetoAcompanhamento\\ProjetoAcompanhamento.csproj|solutionrelative:projetoacompanhamento\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LivrosController.cs",
               "DocumentMoniker": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Controllers\\LivrosController.cs",
               "RelativeDocumentMoniker": "ProjetoAcompanhamento\\Controllers\\LivrosController.cs",
               "ToolTip": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Controllers\\LivrosController.cs",
               "RelativeToolTip": "ProjetoAcompanhamento\\Controllers\\LivrosController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:33:01.983Z",
+              "WhenOpened": "2026-11-26T12:27:52.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Repositories\\ILivroRepository.cs",
+              "RelativeDocumentMoniker": "ProjetoAcompanhamento\\Repositories\\ILivroRepository.cs",
+              "ToolTip": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Repositories\\ILivroRepository.cs",
+              "RelativeToolTip": "ProjetoAcompanhamento\\Repositories\\ILivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T12:28:01.467Z",
               "EditorCaption": ""
             },
             {
@@ -53,52 +58,9 @@
               "RelativeDocumentMoniker": "ProjetoAcompanhamento\\Program.cs",
               "ToolTip": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Program.cs",
               "RelativeToolTip": "ProjetoAcompanhamento\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T13:03:19.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Repositories\\LivroRepository.cs",
-              "RelativeDocumentMoniker": "ProjetoAcompanhamento\\Repositories\\LivroRepository.cs",
-              "ToolTip": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Repositories\\LivroRepository.cs",
-              "RelativeToolTip": "ProjetoAcompanhamento\\Repositories\\LivroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T13:44:21.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ILivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Repositories\\ILivroRepository.cs",
-              "RelativeDocumentMoniker": "ProjetoAcompanhamento\\Repositories\\ILivroRepository.cs",
-              "ToolTip": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\Repositories\\ILivroRepository.cs",
-              "RelativeToolTip": "ProjetoAcompanhamento\\Repositories\\ILivroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T13:04:25.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LivroDTO.cs",
-              "DocumentMoniker": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\DTOs\\LivroDTO.cs",
-              "RelativeDocumentMoniker": "ProjetoAcompanhamento\\DTOs\\LivroDTO.cs",
-              "ToolTip": "C:\\Users\\020.720092\\source\\repos\\ProjetoAcompanhamento\\ProjetoAcompanhamento\\DTOs\\LivroDTO.cs",
-              "RelativeToolTip": "ProjetoAcompanhamento\\DTOs\\LivroDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T12:53:21.78Z",
+              "WhenOpened": "2026-11-26T12:28:04.433Z",
               "EditorCaption": ""
             }
           ]
