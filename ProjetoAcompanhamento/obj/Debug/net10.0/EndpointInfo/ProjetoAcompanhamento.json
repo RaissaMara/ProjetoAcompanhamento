@@ -17,6 +17,18 @@
         }
       }
     },
+    "/api/Livros/falsos": {
+      "get": {
+        "tags": [
+          "Livros"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Livros/Saudacao": {
       "get": {
         "tags": [

@@ -20,7 +20,7 @@ namespace ProjetoAcompanhamento.Controllers
         [HttpGet]
         public async Task<IActionResult> Get() => Ok(await _repository.ListarTodos());
 
-        [HttpGet]
+        [HttpGet("falsos")]
         public IActionResult GetLivros() 
         {
             var LivrosFalsos = new List<string> 

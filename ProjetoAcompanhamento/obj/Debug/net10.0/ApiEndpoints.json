@@ -12,7 +12,7 @@
   {
     "ContainingType": "ProjetoAcompanhamento.Controllers.LivrosController",
     "Method": "GetLivros",
-    "RelativePath": "api/Livros",
+    "RelativePath": "api/Livros/falsos",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
